@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="051140fe-7fab-4550-bf71-dbfae0384611" name="Default Changelist" comment="" />
+    <list default="true" id="051140fe-7fab-4550-bf71-dbfae0384611" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/pathfinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/pathfinder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/test.gif" beforeDir="false" afterPath="$PROJECT_DIR$/week1/test.gif" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AdventOfCode$astar.coverage" NAME="astar Coverage Results" MODIFIED="1543960197706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$astar.coverage" NAME="astar Coverage Results" MODIFIED="1543960680872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1710191689">
@@ -37,13 +42,13 @@
         <counts>
           <entry key="Python Console" value="123" />
           <entry key="dummy" value="30" />
-          <entry key="py" value="11031" />
+          <entry key="py" value="11044" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="11154" />
+          <entry key="Python" value="11167" />
         </counts>
       </usages-collector>
     </session>
@@ -53,13 +58,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week1/pathfinder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="141" column="36" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="36" />
+            <state relative-caret-position="427">
+              <caret line="146" column="84" selection-start-line="146" selection-start-column="84" selection-end-line="146" selection-end-column="84" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
-                <marker date="1543960201716" expanded="true" signature="72:74" ph="..." />
-                <marker date="1543960201716" expanded="true" signature="141:809" ph="..." />
-                <marker date="1543960201716" expanded="true" signature="3408:3421" ph="..." />
+                <marker date="1543960679800" expanded="true" signature="72:74" ph="..." />
+                <marker date="1543960679800" expanded="true" signature="141:809" ph="..." />
+                <marker date="1543960679800" expanded="true" signature="3408:3421" ph="..." />
               </folding>
             </state>
           </provider>
@@ -108,6 +113,7 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -248,13 +254,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week1/pathfinder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="141" column="36" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="36" />
+        <state relative-caret-position="427">
+          <caret line="146" column="84" selection-start-line="146" selection-start-column="84" selection-end-line="146" selection-end-column="84" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
-            <marker date="1543960201716" expanded="true" signature="72:74" ph="..." />
-            <marker date="1543960201716" expanded="true" signature="141:809" ph="..." />
-            <marker date="1543960201716" expanded="true" signature="3408:3421" ph="..." />
+            <marker date="1543960679800" expanded="true" signature="72:74" ph="..." />
+            <marker date="1543960679800" expanded="true" signature="141:809" ph="..." />
+            <marker date="1543960679800" expanded="true" signature="3408:3421" ph="..." />
           </folding>
         </state>
       </provider>

@@ -126,11 +126,11 @@ images = []
 
 
 for step in range(len(path)):
-    image = Image.new('RGB', (a.width * 12, a.height * 12))
+    image = Image.new('RGB', (a.width * 12 + 2, a.height * 12 + 2))
 
     draw = ImageDraw.Draw(image)
 
-    draw.rectangle([0, 0, a.width * 12, a.height * 12], fill=(255, 255, 255))
+    draw.rectangle([0, 0, a.width * 12 + 2, a.height * 12 + 2], fill=(255, 255, 255))
     for y in range(a.height):
         for x in range(a.width):
             if a.array[y][x] == 1:
@@ -144,4 +144,4 @@ for step in range(len(path)):
     images.append(image)
 
 with open('out.png', 'w') as f:
-    images[0].save('test.gif', save_all=True, append_images=images, duration=400, loop=0)
+    images[0].save('test.gif', save_all=True, append_images=images[1:], duration=300, loop=0)
