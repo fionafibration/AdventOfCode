@@ -117,3 +117,4 @@ dmypy.json
 .idea/
 *.xml
 .idea/workspace.xml
+*.xml
